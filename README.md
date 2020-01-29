@@ -15,11 +15,11 @@ conda on your machine:
 1. If you are using Notable, follow the [Notable
   instructions](https://github.com/davidcsterratt/iaml-labs/blob/master/README-notable.md)
   and use the +GitRepo button to enter this repository,
-  https://github.com/davidcsterratt/IAML2019-SEM2-Assignment1.git.
+  https://github.com/davidcsterratt/IAML2019-SEM2-Assignment1.git
 
 2. If you are using conda, go to 
    https://github.com/davidcsterratt/IAML2019-SEM2-Assignment1, click
-   on "Clone or download" and then "Download ZIP" at the bottom.
+   on "Clone or download" and then "Download ZIP" at the bottom
 
 You will find all necessary data and the assignment notebook in the
 assignments/Assignment1 folder. The submission instructions are also
